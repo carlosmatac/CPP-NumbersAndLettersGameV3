@@ -46,7 +46,7 @@ Podemos observar que usando de contenedor un árbol nos ahorramos almacenar más
 @image html tabla.png
 
 
-@image html grafico.png
+
 
 # Ejecutables
 
